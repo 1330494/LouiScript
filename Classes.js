@@ -1,7 +1,7 @@
 class Body{
 	
 	static ThemeColor(color="black"){
-		document.body.backgroundColor = color;
+		document.body.bgColor = color;
 	}
 
 	static put(item){
